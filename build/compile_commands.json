@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/m2potham/m2potham/pa2/build",
+  "command": "/usr/bin/c++   -I/home/m2potham/m2potham/pa2/minisat  -std=c++11 -Wall    -o CMakeFiles/tests.dir/test.cpp.o -c /home/m2potham/m2potham/pa2/test.cpp",
+  "file": "/home/m2potham/m2potham/pa2/test.cpp"
+},
+{
+  "directory": "/home/m2potham/m2potham/pa2/build",
+  "command": "/usr/bin/c++   -I/home/m2potham/m2potham/pa2/minisat  -std=c++11 -Wall    -o CMakeFiles/pa2.dir/main.cc.o -c /home/m2potham/m2potham/pa2/main.cc",
+  "file": "/home/m2potham/m2potham/pa2/main.cc"
+},
+{
+  "directory": "/home/m2potham/m2potham/pa2/build",
+  "command": "/usr/bin/c++   -I/home/m2potham/m2potham/pa2/minisat  -std=c++11 -Wall    -o CMakeFiles/pa2.dir/tseitinTransformer.cc.o -c /home/m2potham/m2potham/pa2/tseitinTransformer.cc",
+  "file": "/home/m2potham/m2potham/pa2/tseitinTransformer.cc"
+},
+{
+  "directory": "/home/m2potham/m2potham/pa2/build",
+  "command": "/usr/bin/c++   -I/home/m2potham/m2potham/pa2/minisat  -std=c++11 -Wall    -o CMakeFiles/pa2.dir/satSolver.cc.o -c /home/m2potham/m2potham/pa2/satSolver.cc",
+  "file": "/home/m2potham/m2potham/pa2/satSolver.cc"
+},
+{
+  "directory": "/home/m2potham/m2potham/pa2/build",
+  "command": "/usr/bin/c++   -I/home/m2potham/m2potham/pa2/minisat  -std=c++11 -Wall    -o CMakeFiles/pa2.dir/parser.cc.o -c /home/m2potham/m2potham/pa2/parser.cc",
+  "file": "/home/m2potham/m2potham/pa2/parser.cc"
+},
+{
+  "directory": "/home/m2potham/m2potham/pa2/build",
+  "command": "/usr/bin/c++   -I/home/m2potham/m2potham/pa2/minisat  -std=c++11 -Wall    -o CMakeFiles/pa2.dir/tokenizer.cc.o -c /home/m2potham/m2potham/pa2/tokenizer.cc",
+  "file": "/home/m2potham/m2potham/pa2/tokenizer.cc"
+},
+{
+  "directory": "/home/m2potham/m2potham/pa2/build",
+  "command": "/usr/bin/c++   -I/home/m2potham/m2potham/pa2/minisat  -std=c++11 -Wall    -o CMakeFiles/pa2.dir/treeNode.cc.o -c /home/m2potham/m2potham/pa2/treeNode.cc",
+  "file": "/home/m2potham/m2potham/pa2/treeNode.cc"
+}
+]
